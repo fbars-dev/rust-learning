@@ -17,8 +17,8 @@ Interactive CLI calculator with full error handling.
 Concepts: std::io, result, loop, pattern matching, functions.
 
 ### lista-spesa
-Lista della spesa interattiva da terminale.
-Concepts: Vec, iteratori, enumerate, borrowing mutabile vs immutabile.
+Interactive command-line shopping list.
+Concepts: Vec, iterators, enumerate, mutable vs immutable borrowing.
 
 ## Roadmap
 - [X] FizzBuzz
@@ -28,6 +28,7 @@ Concepts: Vec, iteratori, enumerate, borrowing mutabile vs immutabile.
 - [ ] Smart contract su Solana devnet
 
 ## Resources
-- [The Rust Book] (https://doc.rust-lang.org/book/)- [Rustlings] (https://github.com/rust-lang/rustling)
+- [The Rust Book] (https://doc.rust-lang.org/book/)
+- [Rustlings] (https://github.com/rust-lang/rustling)
 - [Solana Docs] (https://docs.solana.com)
 - [Anchor Framework] (https://www.anchor-lang.com)
