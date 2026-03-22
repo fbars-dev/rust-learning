@@ -18,7 +18,7 @@ Concepts: std::io, result, loop, pattern matching, functions.
 ## Roadmap
 - [X] FizzBuzz
 - [X] Calcolatrice
-– [ ] Lista della spesa
+– [X] Lista della spesa
 - [ ] CLI wallet simulato
 - [ ] Smart contract su Solana devnet
 
