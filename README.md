@@ -3,6 +3,7 @@
 Learning Rust from zero - target: smart contract auditing on Solana.
 
 **Background**: Architecture + C + Python + Ruby
+
 **Goal**: Blockchain security, remote work
 
 ## Projects
@@ -15,10 +16,14 @@ Concepts: loops, conditionals, modulo operator
 Interactive CLI calculator with full error handling.
 Concepts: std::io, result, loop, pattern matching, functions.
 
+### lista-spesa
+Lista della spesa interattiva da terminale.
+Concepts: Vec, iteratori, enumerate, borrowing mutabile vs immutabile.
+
 ## Roadmap
 - [X] FizzBuzz
 - [X] Calcolatrice
-– [X] Lista della spesa
+- [X] Lista della spesa
 - [ ] CLI wallet simulato
 - [ ] Smart contract su Solana devnet
 
