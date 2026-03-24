@@ -20,10 +20,15 @@ Concepts: std::io, result, loop, pattern matching, functions.
 Interactive command-line shopping list.
 Concepts: Vec, iterators, enumerate, mutable vs immutable borrowing.
 
+### gestione-contatti
+Interactive CLI contact manager with search functionality.
+Concepts: struct, impl, methods, iter/filter/collect, borrowing.
+
 ## Roadmap
 - [X] FizzBuzz
 - [X] Calcolatrice
 - [X] Lista della spesa
+- [X] Gestione contatti
 - [ ] CLI wallet simulato
 - [ ] Smart contract su Solana devnet
 
