@@ -24,13 +24,21 @@ Concepts: Vec, iterators, enumerate, mutable vs immutable borrowing.
 Interactive CLI contact manager with search functionality.
 Concepts: struct, impl, methods, iter/filter/collect, borrowing.
 
+### edificio
+Struct exercise - building with methods and associated functions.
+Concepts: struct, impl, methods, associated functions, derived traits.
+
+### CLI wallet
+Exercise on wallet management from CLI. Use of deposit and withdrawal with error management
+Concepts: enum, struct, impl, functions, Result, interactive menu.
+
 ## Roadmap
 - [X] FizzBuzz
 - [X] Calcolatrice
 - [X] Lista della spesa
 - [X] Gestione contatti
 - [X] Edificio (struct exercise)
-- [ ] CLI wallet simulato
+- [X] CLI wallet
 - [ ] Smart contract su Solana devnet
 
 ## Resources
